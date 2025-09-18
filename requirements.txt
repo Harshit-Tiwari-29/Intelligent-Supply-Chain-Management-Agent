@@ -1,0 +1,8 @@
+pandas
+prophet
+pulp
+langchain
+langchain-openai
+googlemaps
+newsapi-python
+python-dotenv
